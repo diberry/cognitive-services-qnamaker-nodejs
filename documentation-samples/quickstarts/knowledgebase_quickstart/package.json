@@ -1,10 +1,10 @@
 {
-  "name": "knowledgebase_quickstart",
+  "name": "qnamaker_quickstart",
   "version": "1.0.0",
   "description": "",
-  "main": "knowledgebase_quickstart.js",
+  "main": "qnamaker_quickstart.js",
   "scripts": {
-    "start": "node knowledgebase_quickstart.js",
+    "start": "node qnamaker_quickstart.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
